@@ -1,0 +1,1 @@
+print("Kolinko Vladyslava, CS-2")
